@@ -8,10 +8,10 @@ ChatHistoryView: The ChatHistoryView displays the sender name, receiver name, me
 It is created by joining the User, Chat, and Group tables and aggregating the data in a single view for easy querying.
 
 ### Tables
-1 User Table
-2 Chat Table
-3 Group Table
-4 Group Members Table
+- User Table
+- Chat Table
+- Group Table
+- Group Members Table
 
 1 User Table
 The User table stores information about each user in the WhatsApp system, such as their name and unique identifier.
