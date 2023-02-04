@@ -2,8 +2,9 @@
 This repository contains SQL scripts to create and populate sample tables for a modern WhatsApp database.
 
 ## Table of Contents
+
 ### ChatHistoryView
-1 ChatHistoryView: The ChatHistoryView displays the sender name, receiver name, messages sent between them, and their time stamps.
+ChatHistoryView: The ChatHistoryView displays the sender name, receiver name, messages sent between them, and their time stamps.
 It is created by joining the User, Chat, and Group tables and aggregating the data in a single view for easy querying.
 
 ### Tables
