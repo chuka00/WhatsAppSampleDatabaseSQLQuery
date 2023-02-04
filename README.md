@@ -4,7 +4,7 @@ This repository contains SQL scripts to create and populate sample tables for a 
 ## Table of Contents
 
 ### ChatHistoryView
-ChatHistoryView: The ChatHistoryView displays the sender name, receiver name, messages sent between them, and their time stamps.
+- ChatHistoryView: The ChatHistoryView displays the sender name, receiver name, messages sent between them, and their time stamps.
 It is created by joining the User, Chat, and Group tables and aggregating the data in a single view for easy querying.
 
 ### Tables
