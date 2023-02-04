@@ -25,6 +25,6 @@ The Group table stores information about the groups created in the WhatsApp syst
 4 Group Members Table
 The Group Members table stores information about the members of each group, including the user identifier and the group identifier.
 
-### Running the Scripts
+## Running the Scripts
 The scripts can be run using a SQL management tool, such as SQL Server Management Studio (SSMS).
 Simply run each script in the order they are presented to create and populate the tables and views.
