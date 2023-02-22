@@ -1,3 +1,6 @@
+--Creating the Database
+CREATE Database WhatsAppSampleDB;
+
 -- Creating the User table
 CREATE TABLE Users (
     UserID int PRIMARY KEY IDENTITY(1,1),
